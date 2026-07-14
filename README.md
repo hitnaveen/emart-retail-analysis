@@ -12,9 +12,9 @@ Excel · Python (pandas, matplotlib) · MySQL · Power BI
 
 ## Dataset
 
-- `customers_py.csv` - 15,266 rows
-- `Products_py.csv` - 2,517 rows
-- `Sales_py.csv` - 62,884 rows
+- `customers.csv` - 15,266 rows
+- `Products.csv` - 2,517 rows
+- `Sales.csv` - 62,884 rows
 
 ## Key Findings
 

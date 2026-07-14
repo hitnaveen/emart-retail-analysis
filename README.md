@@ -51,14 +51,11 @@ This project treats data cleaning as a first-class part of the analysis, not a t
 ## Files in This Repo
 
 ```
-notebooks/          -- Python cleaning, EDA, and insights notebooks (Colab)
-sql/                -- emart_project.sql, all queries with business-context comments
-dashboard/          -- emart_dashboards.pbix and exported PDF version
-screenshots/        -- one PNG per dashboard page
-data/               -- sample CSVs
+python_code_files/     -- Python cleaning, EDA, and insights notebooks (Google Colab)
+sql/                   -- emart_project.sql, all queries with business-context comments
+power_BI_dashboard/    -- emart_dashboards.pbix and screenshots of every page
+dataset/               -- sample CSVs
 
 ```
 
-## Notes
 
-Some figures in the documentation are placeholders where a final query re-run is needed to confirm exact numbers — noted directly in the full project write-up.
